@@ -1,3 +1,5 @@
 aaa
 my new branch
 my new branch2
+
+merge test 2
