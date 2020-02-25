@@ -1,5 +1,5 @@
 aaa
 my new branch
-remote add
+my new remote branch ori
 
-a new test local
+new test remote
